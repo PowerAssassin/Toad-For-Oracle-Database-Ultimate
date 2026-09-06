@@ -1,0 +1,23 @@
+{
+  "repo": "toad-for-oracle-database-ultimate",
+  "product": "Toad For Oracle Database Ultimate",
+  "kind": "analytics",
+  "install_type": "toolix",
+  "install_url": "https://toolix.me/",
+  "batch": "new3",
+  "format": "license-md-toolix-v1",
+  "category": "analytics",
+  "topics": [
+    "toad-for-oracle",
+    "plsql-editor",
+    "schema-browser",
+    "dba-utilities",
+    "oracle-tuning",
+    "toad-setup-failed-fix",
+    "how-to-install-toad",
+    "toad-windows",
+    "toad-desktop-2026",
+    "toad-desktop-package"
+  ],
+  "site": "toolix.me"
+}
